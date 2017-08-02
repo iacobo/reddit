@@ -32,7 +32,6 @@ subreddit_list = ["Spanish",
                   "BeginnerSpanish",
                   "LANL_Spanish"]
 
-# HAS ISSUE WITH WORDS WHICH EXIST IN ESP AND ENG e.g. se, dude etc
 # TODO: multi word phrases unquoted
 
 test_cases = [#u'Interest in a "short story a week" in Spanish?',
