@@ -19,7 +19,7 @@ Example post:
 
 >###guitar
 |Language|Word|Etymology|
-|-|-|-|
+|---|---|---|
 |Portuguese|violão||
 |Galician|guitarra||
 |Asturian|guitarra||
