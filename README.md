@@ -1,2 +1,2 @@
 # reddit
-Code snippits for reddit
+Code and scripts which interact with reddit.com.
