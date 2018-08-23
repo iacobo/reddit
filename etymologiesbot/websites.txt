@@ -1,0 +1,14 @@
+### Master sites for cognates:
+#
+## Other lang wiktionary pages
+#  "https://{}.wiktionary.org/wiki/{}#Reviradas".format("oc",word)
+#
+## Latin root word wiktionary page (descendents):
+#  "https://en.wiktionary.org/wiki/{}#Translations".format(eng_word)
+
+## Occitan
+#    ###commun gasc-lang
+#    url2 = "https://www.locongres.org/oc/aplicacions/2014-02-03-16-57-17/dicodoc-recerca?type=fr-oc&dic%5B%5D=BASIC&q={}&q2=&submit=Cercar".format(fr_word)
+#    url3 = "http://traductor.gencat.cat/text.do".format(div class textbox_target)
+
+######################################################

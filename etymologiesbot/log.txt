@@ -1,0 +1,447 @@
+
+2018-08-05 11:09:56.233446
+Request: "test"
+###test
+|Language|Word|Etymology|
+|-|-|-|
+|Portuguese|teste|From Latin testis (“witness”).; __Etymology 2:__ From English test.|
+|Galician|proba||
+|Asturian|prueba|From probar, or from Latin proba.|
+|Spanish|prueba|From probar or Latin proba.|
+|Catalan|prova|From Latin proba.|
+|Occitan|tèst||
+|French|tester|test +‎ -er; __Etymology 2:__ From Latin testor.|
+|Piedmontese|preuva||
+|Venetian|prova||
+|Friulian|prove, colaudâ, provinâ, provâ, stağâ|From Latin proba.|
+|Ladin|proa|From Latin proba.|
+|Italian|test|Borrowed from English test.|
+|Sicilian|prova, esami||
+|Corsican|francese test||
+|Sardinian|proa, proba, prova||
+|Romanian|test||
+
+
+-------------
+
+-------------
+
+^[EtymologiesBot](https://www.reddit.com/user/EtymologiesBot) ^v0.5 ^| ^Etymologies ^provided ^by ^[Wiktionary](http://www.wiktionary.org) ^| ^Translations ^provided ^by ^[GoogleTranslate](https://translate.google.com/) ^and ^[Glosbe](https://glosbe.com)
+
+-------------
+
+
+2018-08-05 11:14:02.951230
+Request: "snake"
+###snake
+|Language|Word|Etymology|
+|-|-|-|
+|Portuguese|serpente|From Old Portuguese serpente, from Latin serpēns, serpentem (“serpent”), present active participle of serpō (“crawl, creep”), from Proto-Indo-European *serp-.|
+|Galician|serpe|From Old Portuguese serpe, from Vulgar Latin serpes, from Latin serpēns.|
+|Asturian|culiebra, culiebra|From Latin colubra.|
+|Spanish|serpiente|From Latin serpēns, serpentem, from serpō (“crawl, creep”), from Proto-Indo-European *serp-. Cognate with English serpent.|
+|Ladino|קוליב'רה||
+|Aragonese|serpién, serpentes, bicha, cullebra, gripia, serpentes, sirpién|From Latin colubra.|
+|Catalan|serp|From Old Occitan serp, from Vulgar Latin serpe(m), serpes, from Latin serpēns, from serpō (“crawl, creep”), from Proto-Indo-European *serp-.|
+|Occitan|sèrp, serpentes, serpentes|From Old Occitan serp, from Vulgar Latin serpe(s), from Latin serpēns.|
+|Walloon|sierpint, sierpint|From Old French serpent < Latin serpēns, serpentem.|
+|French|serpent|From Middle French serpent, from Old French serpent, from Latin serpentem, accusative form of serpēns, from serpō (“crawl, creep”), from Proto-Indo-European *serp-.|
+|Piedmontese|serp||
+|Lombard|serpéent, bissa||
+|Venetian|bisa, bissa|From Late Latin, Vulgar Latin bīstia, from Latin bēstia. Compare Italian biscia. Doublet of bestia.|
+|Friulian|sarpint, madrac|From Latin serpēns, serpentem.|
+|Romansh|serp, serpaint, serpent, siarp, zearp, zerp||
+|Italian|serpente|From Latin serpēns, serpentem, from serpō (“crawl, creep”), from Proto-Indo-European *serp-.|
+|Neapolitan|sierpe, sèrpe, serpa, cervone, scurzone, serpe, sérpe|From Vulgar Latin *sarpa (compare French serpe (“sickle”), serpette (“billhook”)).|
+|Sicilian|serpenti, sirpenti, serpi, scursuni, scursuni||
+|Corsican|serpente||
+|Sardinian|colovra, telpe||
+|Istro-Romanian|şerp||
+|Megleno-Romanian|şarpi||
+|Romanian|şarpe|From Vulgar Latin serpes, from Latin serpēns, from serpō (“crawl, creep”), from Proto-Indo-European *serp-.|
+
+
+-------------
+
+-------------
+
+^[EtymologiesBot](https://www.reddit.com/user/EtymologiesBot) ^v0.5 ^| ^Etymologies ^provided ^by ^[Wiktionary](http://www.wiktionary.org) ^| ^Translations ^provided ^by ^[GoogleTranslate](https://translate.google.com/) ^and ^[Glosbe](https://glosbe.com)
+
+-------------
+
+
+2018-08-06 12:25:48.475765
+Request: "plastic"
+###plastic
+|Language|Word|Etymology|
+|-|-|-|
+|Portuguese|plástico|From Latin plasticus (“of molding”), from Ancient Greek πλαστικός (plastikós), from πλάσσειν (plássein, “to mold, form”).|
+|Galician|plástico||
+|Asturian|plásticu||
+|Spanish|el plastico||
+|Aragonese|plastico, plastico||
+|Catalan|plàstic|From Latin plasticus (“of molding”), from Ancient Greek πλαστικός (plastikós), from πλάσσειν (plássein, “to mold, form”).|
+|Occitan|plastic, plastic||
+|French|plastique||
+|Venetian|plàstega, plàstega|Compare Italian plastica|
+|Italian|plastica|From the adjective plastico (“plastic”), from Latin plasticus (“pertaining to moulding or shaping”).|
+|Sicilian|plastica, plastica||
+|Corsican|plastica||
+|Romanian|plasticul||
+
+
+-------------
+
+-------------
+
+^[EtymologiesBot](https://www.reddit.com/user/EtymologiesBot) ^v0.5 ^| ^Etymologies ^provided ^by ^[Wiktionary](http://www.wiktionary.org) ^| ^Translations ^provided ^by ^[GoogleTranslate](https://translate.google.com/) ^and ^[Glosbe](https://glosbe.com)
+
+-------------
+
+
+2018-08-06 12:30:47.728459
+Request: "shoe"
+###shoe
+|Language|Word|Etymology|
+|-|-|-|
+|Portuguese|sapato|From Old Portuguese çapato, çapata[1], from Old Spanish çapato[2], maybe from Ottoman Turkish [Term?] (Turkish zabata)[3], from Persian [Term?][4]. Cognate with Galician zapato (“shoe”), Spanish zapato (“shoe”), Basque zapata (“shoe”), Catalan sabata (“shoe”), Occitan sabata (“shoe”), French savate (“worn-out (old) shoe”) and Italian ciabatta (“slipper”).|
+|Galician|zapato||
+|Mirandese|çapato||
+|Asturian|zapatu, ferrar|From fierru (“iron”) +‎ -ar, or from a Late Latin ferrāre, from Latin ferrum (“iron”). Compare Spanish herrar.|
+|Spanish|zapato|Borrowed from Ottoman Turkish [Term?] (Turkish zabata). Compare also French sabot, Italian ciabatta and Portuguese sapato.  Doublet of  chapata.|
+|Catalan|sabata|Ultimately from Ottoman Turkish [script needed] (zabata). Compare Spanish zapata.|
+|Occitan|ferrar, sabata, cauçadura, cauçar, chaussier||
+|Walloon|solé||
+|French|chaussure|chausser +‎ -ure|
+|Friulian|scarpa||
+|Romansh|calzer, chalzer, s-charpa||
+|Italian|scarpa|From Gothic skarpo (sharp object, with pointed ends), from Proto-Germanic *skarpaz|
+|Sicilian|scarpa|Ultimately of Germanic origin.|
+|Corsican|scarpa||
+|Romanian|pantof|Borrowed from German Pantoffel (“slipper”).|
+
+
+-------------
+
+-------------
+
+^[EtymologiesBot](https://www.reddit.com/user/EtymologiesBot) ^v0.5 ^| ^Etymologies ^provided ^by ^[Wiktionary](http://www.wiktionary.org) ^| ^Translations ^provided ^by ^[GoogleTranslate](https://translate.google.com/) ^and ^[Glosbe](https://glosbe.com)
+
+-------------
+
+
+2018-08-07 10:38:12.079884
+Request: "or/and"
+###or/and
+|Language|Word|Etymology|
+|-|-|-|
+|Portuguese|ou e||
+|Galician|ou / e||
+|Spanish|o y||
+|Catalan|o / i||
+|French|ou et||
+|Italian|o / e||
+|Corsican|o / è||
+|Romanian|sau și||
+
+
+-------------
+
+-------------
+
+^[EtymologiesBot](https://www.reddit.com/user/EtymologiesBot) ^v0.5 ^| ^Etymologies ^provided ^by ^[Wiktionary](http://www.wiktionary.org) ^| ^Translations ^provided ^by ^[GoogleTranslate](https://translate.google.com/) ^and ^[Glosbe](https://glosbe.com)
+
+-------------
+
+
+2018-08-07 10:50:10.005645
+Request: or
+###or
+|Language|Word|Etymology|
+|-|-|-|
+|Portuguese|ou|From Old Portuguese ou, from Latin aut.|
+|Galician|ou|From Old Portuguese ou, from Latin aut.|
+|Fala|o|From Old Portuguese o, from Latin illo (“he”).; __Etymology 2:__ From Old Portuguese ou, from Latin aut (“or”).|
+|Asturian|o, oru|From Latin aut.|
+|Extremaduran|o||
+|Spanish|o|From Latin aut.|
+|Ladino|o||
+|Aragonese|u, o|From Latin aut.|
+|Catalan|o|From Latin aut.|
+|Occitan|o, aur|From Old Occitan aur, from Latin aurum.|
+|French|ou|From Old French ou, from Latin aut.[1]|
+|Venetian|o||
+|Ladin|o|From Latin aut.|
+|Romansh|da||
+|Italian|o|From Latin ō (the name of the letter O).; __Etymology 2:__ ; __Etymology 2:__ From Latin aut.[1]|
+|Neapolitan|o|From Latin aut.|
+|Sicilian|o||
+|Corsican|o||
+|Sardinian|o||
+|Romanian|sau|From Latin seu, a corrupt form of sive, perhaps influenced by aut (cf. au).|
+
+
+-------------
+
+-------------
+
+^[EtymologiesBot](https://www.reddit.com/user/EtymologiesBot) ^v0.5 ^| ^Etymologies ^provided ^by ^[Wiktionary](http://www.wiktionary.org) ^| ^Translations ^provided ^by ^[GoogleTranslate](https://translate.google.com/) ^and ^[Glosbe](https://glosbe.com)
+
+-------------
+
+
+2018-08-07 10:51:15.716415
+Request: and
+###and
+|Language|Word|Etymology|
+|-|-|-|
+|Portuguese|e|From Old Portuguese e (“and”), from Latin et (“and”), from Proto-Indo-European *éti.; __Etymology 2:__ See Translingual section.; __Etymology 2:__ Abbreviation of este|
+|Galician|e|From Latin et.|
+|Mirandese|i|From Latin et.|
+|Asturian|y|From Latin et, from Proto-Indo-European *éti.|
+|Spanish|y|From Old Spanish é or e, from Latin et.|
+|Ladino|i, אי|From Old Spanish é or e, from Latin et.|
+|Aragonese|y, e|From Latin et, from Proto-Indo-European *éti.|
+|Catalan|i|From Latin et (“and”), from Proto-Indo-European *éti.|
+|Occitan|e|From Old Occitan e, from Latin et.|
+|Walloon|et, eyet|From Latin et.|
+|French|et|From Latin et (“and; plus”).|
+|Lombard|e||
+|Venetian|e||
+|Friulian|e|From Latin et.|
+|Ladin|i||
+|Romansh|e, ed, e ed||
+|Dalmatian|e|From Latin et.|
+|Italian|e|From Latin ē (the name of the letter E).; __Etymology 2:__ From Latin et.[1]|
+|Neapolitan|e|From Latin de; __Etymology 2:__ From Latin et|
+|Sicilian|e||
+|Corsican|è|From Latin et.|
+|Sardinian|e||
+|Megleno-Romanian|şi||
+|Romanian|și|From Latin sic.|
+
+
+-------------
+
+-------------
+
+^[EtymologiesBot](https://www.reddit.com/user/EtymologiesBot) ^v0.5 ^| ^Etymologies ^provided ^by ^[Wiktionary](http://www.wiktionary.org) ^| ^Translations ^provided ^by ^[GoogleTranslate](https://translate.google.com/) ^and ^[Glosbe](https://glosbe.com)
+
+-------------
+
+
+2018-08-07 11:12:08.900054
+Request: "or"
+###or
+|Language|Word|Etymology|
+|-|-|-|
+|Portuguese|ou|From Old Portuguese ou, from Latin aut.|
+|Galician|ou|From Old Portuguese ou, from Latin aut.|
+|Fala|o|From Old Portuguese o, from Latin illo (“he”).; __Etymology 2:__ From Old Portuguese ou, from Latin aut (“or”).|
+|Asturian|o, oru|From Latin aut.|
+|Extremaduran|o||
+|Spanish|o|From Latin aut.|
+|Ladino|o||
+|Aragonese|u, o|From Latin aut.|
+|Catalan|o|From Latin aut.|
+|Occitan|o, aur|From Old Occitan aur, from Latin aurum.|
+|French|ou|From Old French ou, from Latin aut.[1]|
+|Venetian|o||
+|Ladin|o|From Latin aut.|
+|Romansh|da||
+|Italian|o|From Latin ō (the name of the letter O).; __Etymology 2:__ ; __Etymology 2:__ From Latin aut.[1]|
+|Neapolitan|o|From Latin aut.|
+|Sicilian|o||
+|Corsican|o||
+|Sardinian|o||
+|Romanian|sau|From Latin seu, a corrupt form of sive, perhaps influenced by aut (cf. au).|
+
+
+-------------
+
+-------------
+
+^[EtymologiesBot](https://www.reddit.com/user/EtymologiesBot) ^v0.5 ^| ^Etymologies ^provided ^by ^[Wiktionary](http://www.wiktionary.org) ^| ^Translations ^provided ^by ^[GoogleTranslate](https://translate.google.com/) ^and ^[Glosbe](https://glosbe.com)
+
+-------------
+
+
+2018-08-07 11:13:25.325585
+Request: "and"
+###and
+|Language|Word|Etymology|
+|-|-|-|
+|Portuguese|e|From Old Portuguese e (“and”), from Latin et (“and”), from Proto-Indo-European *éti.; __Etymology 2:__ See Translingual section.; __Etymology 2:__ Abbreviation of este|
+|Galician|e|From Latin et.|
+|Mirandese|i|From Latin et.|
+|Asturian|y|From Latin et, from Proto-Indo-European *éti.|
+|Spanish|y|From Old Spanish é or e, from Latin et.|
+|Ladino|i, אי|From Old Spanish é or e, from Latin et.|
+|Aragonese|y, e|From Latin et, from Proto-Indo-European *éti.|
+|Catalan|i|From Latin et (“and”), from Proto-Indo-European *éti.|
+|Occitan|e|From Old Occitan e, from Latin et.|
+|Walloon|et, eyet|From Latin et.|
+|French|et|From Latin et (“and; plus”).|
+|Lombard|e||
+|Venetian|e||
+|Friulian|e|From Latin et.|
+|Ladin|i||
+|Romansh|e, ed, e ed||
+|Dalmatian|e|From Latin et.|
+|Italian|e|From Latin ē (the name of the letter E).; __Etymology 2:__ From Latin et.[1]|
+|Neapolitan|e|From Latin de; __Etymology 2:__ From Latin et|
+|Sicilian|e||
+|Corsican|è|From Latin et.|
+|Sardinian|e||
+|Megleno-Romanian|şi||
+|Romanian|și|From Latin sic.|
+
+
+-------------
+
+-------------
+
+^[EtymologiesBot](https://www.reddit.com/user/EtymologiesBot) ^v0.5 ^| ^Etymologies ^provided ^by ^[Wiktionary](http://www.wiktionary.org) ^| ^Translations ^provided ^by ^[GoogleTranslate](https://translate.google.com/) ^and ^[Glosbe](https://glosbe.com)
+
+-------------
+
+
+2018-08-07 11:17:49.326064
+Request: "where"
+###where
+|Language|Word|Etymology|
+|-|-|-|
+|Portuguese|onde|From Old Portuguese onde, from Latin unde (“whence”). Compare Spanish donde.|
+|Galician|onde||
+|Asturian|onde, ónde, aonde, aú, u, au|From Latin unde.|
+|Spanish|dónde|See donde.|
+|Ladino|onde||
+|Aragonese|do, dó, á on, án||
+|Catalan|on|From Old Occitan [Term?] (compare Occitan ont), from Latin unde (compare French dont).|
+|Occitan|ont, on|From Old Occitan [Term?] (compare Catalan on), from Latin unde (compare French dont).|
+|Walloon|wice, di wice, did dou, wiss||
+|French|où|From Middle French où, from Old French ou, from Latin ubi (“where?”). The grave accent was added in Middle French to differentiate from ou (“or”).|
+|Piedmontese|andova, anté||
+|Lombard|indua, indovè, indoè||
+|Venetian|ndove||
+|Friulian|dulà||
+|Romansh|nua||
+|Dalmatian|jo, io|From Latin ubi. Compare Romanian iuo, Italian ove, French où, Old Spanish o.|
+|Italian|dove|From Latin dē ubi, or from a strengthening of the older form ove with a prothetic d-.|
+|Neapolitan|addò, addó, ndò||
+|Sicilian|unni|From Latin unde.|
+|Corsican|induve||
+|Sardinian|àba, aundi, inue||
+|Megleno-Romanian|i̯undi||
+|Romanian|unde|From Latin unde.|
+
+
+-------------
+
+-------------
+
+^[EtymologiesBot](https://www.reddit.com/user/EtymologiesBot) ^v0.5 ^| ^Etymologies ^provided ^by ^[Wiktionary](http://www.wiktionary.org) ^| ^Translations ^provided ^by ^[GoogleTranslate](https://translate.google.com/) ^and ^[Glosbe](https://glosbe.com)
+
+-------------
+
+
+2018-08-10 11:32:32.638989
+Request: "please"
+###please
+|Language|Word|Etymology|
+|-|-|-|
+|Portuguese|por favor||
+|Galician|por favor||
+|Asturian|por favor||
+|Spanish|por favor||
+|Catalan|si us plau|Literally 'if it pleases you'. Compare French s'il vous plaît and Franco-Provençal s'el vos plét.|
+|Occitan|agradar, plaire, se vos plai|From grat, from Latin grātum < grātus. Compare Catalan and Spanish agradar, French agréer.|
+|Walloon|plaire, s' i vs plait||
+|French|s'il vous plaît|Literally "if it pleases you".|
+|Venetian|per piasser, per piasser||
+|Friulian|apajâ, contentâ, plasê, par plasê|From Latin placēre, present active infinitive of placeō.|
+|Italian|per favore||
+|Sicilian|pi favuri, pi favuri||
+|Corsican|per piacè||
+|Romanian|vă rog|Literal meaning - I ask you|
+
+
+-------------
+
+-------------
+
+^[EtymologiesBot](https://www.reddit.com/user/EtymologiesBot) ^v0.5 ^| ^Etymologies ^provided ^by ^[Wiktionary](http://www.wiktionary.org) ^| ^Translations ^provided ^by ^[GoogleTranslate](https://translate.google.com/) ^and ^[Glosbe](https://glosbe.com)
+
+-------------
+
+
+2018-08-12 09:25:17.185011
+Request: "pot"
+###pot
+|Language|Word|Etymology|
+|-|-|-|
+|Portuguese|maconha|Borrowed from Kimbundu makaña.|
+|Galician|pote|15th century. Probably borrowed from Old French pot,[1] from Proto-Germanic *puttaz (“pot, jar, tub”), from Proto-Indo-European *budn- (“a kind of vessel”). Doublet of  pota.; __Etymology 2:__ Ultimately from Proto-Germanic *pūto (“swollen”). Compare English pout.|
+|Asturian|pot||
+|Spanish|maceta||
+|Ladino|caldera||
+|Aragonese|pot, caserola, cazuela||
+|Catalan|olla||
+|Occitan|ola, pot, caçairòla, caçaròla, caçòla, cruga, dorna, pòt|From Latin olla.|
+|Walloon|pot, cocote||
+|French|pot|From Middle French pot, from Old French pot (“pot”), from Vulgar Latin pottum, pottus (“pot, jar”), from Proto-Germanic *puttaz (“pot, jar, tub”), from Proto-Indo-European *budn- (“a kind of vessel”). More at pot.|
+|Piedmontese|pot||
+|Ligurian|pot||
+|Venetian|pot, caldiera||
+|Friulian|cite, ole, pignat, vâs, pot|From Latin vāsum.|
+|Romansh|pot||
+|Italian|pentola|Derived from a Vulgar Latin *pinta, alternative form of Latin picta (“painted [pot]”), feminine perfect passive participle of pingō (“I decorate”, “I paint”), from the custom of decorating crocks and pots by painting them.|
+|Neapolitan|pot, tiella||
+|Sicilian|pot||
+|Corsican|pote||
+|Sardinian|pot||
+|Romanian|oală|From Latin olla.|
+
+
+-------------
+
+-------------
+
+^[EtymologiesBot](https://www.reddit.com/user/EtymologiesBot) ^v0.5 ^| ^Etymologies ^provided ^by ^[Wiktionary](http://www.wiktionary.org) ^| ^Translations ^provided ^by ^[GoogleTranslate](https://translate.google.com/) ^and ^[Glosbe](https://glosbe.com)
+
+-------------
+
+
+2018-08-22 10:41:17.839970
+[Request] "guitar"
+###guitar
+|Language|Word|Etymology|
+|-|-|-|
+|Portuguese|violão||
+|Galician|guitarra||
+|Asturian|guitarra||
+|Extremaduran|quitarra||
+|Spanish|guitarra|From Arabic قِيثَارَة‎ (qīṯāra), from Latin cithara, from Ancient Greek κιθάρα (kithára).|
+|Aragonese|guitarra, guitarra||
+|Catalan|guitarra||
+|Occitan|guitarra||
+|French|guitare|Borrowed from Spanish guitarra, from Arabic قِيثَارَة‎ (qīṯāra), from Latin cithara, from Ancient Greek κιθάρα (kithára). Doublet of  cithare and cistre.|
+|Lombard|ghitara||
+|Venetian|chitara|Compare Italian chitarra|
+|Friulian|ghitare||
+|Romansh|ghitarra, ghitarra||
+|Italian|chitarra|Borrowed from Arabic قِيثَارَة‎ (qīṯāra), from Latin cithara, from Ancient Greek κιθάρα (kithára). Doublet of  cetra, inherited from Latin.|
+|Sicilian|chitarra acustica||
+|Corsican|guitare||
+|Sardinian|ghitarra||
+|Romanian|chitară|Borrowed from Italian chitarra, from Arabic قِيثَارَة‎ (qīṯāra), from Latin cithara, from Ancient Greek κιθάρα (kithára). Doublet of  ceteră, which was inherited from Latin, and țiteră, taken from German.|
+
+
+-------------
+
+-------------
+
+^[EtymologiesBot](https://www.reddit.com/user/EtymologiesBot) ^v0.5 ^| ^Etymologies ^provided ^by ^[Wiktionary](http://www.wiktionary.org) ^| ^Translations ^provided ^by ^[GoogleTranslate](https://translate.google.com/) ^and ^[Glosbe](https://glosbe.com)
+
+-------------
+
